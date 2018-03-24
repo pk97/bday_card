@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Birthday Card</string>
+    <string name="Happy">HAPPY bIRTHDAY!</string>
+    <string name="from">From Pulkit</string>
+    <string name="bday">bday</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+
+    <string name="welcome_text">Welcome to the Happy Birthday Card generator!</string>
+    <string name="input">Enter the Name of Invitee</string>
+    <string name="OK">OK</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
